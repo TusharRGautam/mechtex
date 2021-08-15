@@ -1,0 +1,2 @@
+[26-Jun-2021 15:42:21 UTC] PHP Notice:  Undefined index: sid in /home/bnouzpucl7vi/public_html/newmechtex/ajax.php on line 18
+[26-Jun-2021 15:42:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bnouzpucl7vi/public_html/newmechtex/ajax.php on line 19
